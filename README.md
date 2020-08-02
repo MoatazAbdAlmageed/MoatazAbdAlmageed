@@ -2,7 +2,7 @@
 
 ## About me
 
-With 4+ years of experience leveraging PHP & JavaScript to build responsive websites.
+I'm Egyptian web developer With 4+ years of experience leveraging PHP & JavaScript to build responsive websites.
 
 ## Skills
 
