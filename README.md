@@ -6,7 +6,7 @@ I'm Egyptian web developer With 4+ years of experience leveraging PHP & JavaScri
 
 ## Skills
 
-<code> <img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/></code>
+<code> <img title="PHP" height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"/></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"/></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/></code>
 <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></code>
