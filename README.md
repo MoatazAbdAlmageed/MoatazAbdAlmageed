@@ -7,8 +7,7 @@ I'm Egyptian web developer With 4+ years of experience leveraging PHP & JavaScri
 ## Skills
 
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
-<code> <img title="sass" height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg
-" /> </code>
+<code> <img title="sass" height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> </code>
 <code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
 <code> <img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
 <code> <img title="typescript" height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/></code>
@@ -25,7 +24,6 @@ I'm Egyptian web developer With 4+ years of experience leveraging PHP & JavaScri
 <code> <img title="graphql" height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" /> </code>
 <code> <img title="gatsbyjs" height="50" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-ar21.svg"></code>
 <code> <img title="electronjs" height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
-
 
 ### Interesting stats
 
