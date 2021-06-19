@@ -2,7 +2,8 @@
 
 ## About me
 
-I'm Egyptian web developer With 4+ years of experience leveraging PHP & JavaScript to build responsive websites.
+I am a Web Developer located in Egypt, I currently work as a full time Web Developer for Wuilt. I am looking to take on more work and to increase my skills as a Web Developer.
+
 
 ## Skills
 
