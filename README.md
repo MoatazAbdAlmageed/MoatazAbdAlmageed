@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a Web Developer located in Egypt, I currently work as a full time Web Developer for Wuilt. I am looking to take on more work and to increase my skills as a Web Developer.
+I am a Full stack Web Developer with +6 years of experience. I work for Wuilt. I am looking forward to taking on more work and increase my skills as a Web Developer. I'm married and I have 2 sons; Hamza and Bilal
 
 
 ## Skills
