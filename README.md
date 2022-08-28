@@ -2,8 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=MoatazAbdAlmageed)
 ## About me
 
-I am a Full stack Web Developer with +6 years of experience. I work for Wuilt. I am looking forward to taking on more work and increase my skills as a Web Developer. I'm married and I have 2 sons; Hamza and Bilal
-
+I am a Full stack Web Developer with +7 years of experience. I work for Wuilt. I am looking forward to taking on more work and increase my skills as a Web Developer. I'm married and I have 2 sons Hamza,Belal
 
 ## Skills
 
