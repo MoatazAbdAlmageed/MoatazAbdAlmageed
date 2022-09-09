@@ -1,11 +1,9 @@
 # Moataz AbdAlmageed
-![](https://visitor-badge.glitch.me/badge?page_id=MoatazAbdAlmageed)
-## About me
 
+## About me
 I am a Full stack Web Developer with +7 years of experience. I work for Wuilt. I am looking forward to taking on more work and increase my skills as a Web Developer. I'm married and I have 2 sons Hamza,Belal
 
 ## Skills
-
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
 <code> <img title="sass" height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> </code>
 <code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
@@ -27,5 +25,4 @@ I am a Full stack Web Developer with +7 years of experience. I work for Wuilt. I
 <code> <img title="electronjs" height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 
 ### Interesting stats
-
 ![Moataz's stats](https://github-readme-stats.vercel.app/api?username=MoatazAbdAlmageed&show_icons=true)
