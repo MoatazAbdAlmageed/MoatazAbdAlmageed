@@ -1,4 +1,4 @@
-Hello, I am <b>Moataz AbdAlmageed</b> a Full stack Web Developer with +7 years of experience. I work for Wuilt. I am looking forward to taking on more work and increasing my skills as a Web Developer. I'm married and I have 2 sons Hamza, Belal
+Hello, I am <b>Moataz AbdAlmageed</b> a Full stack Web Developer with +7 years of experience. I work for Wuilt. I am looking forward to taking on more work and increasing my skills as a Web Developer. I'm married and I have 2 sons Hamza, Belal.
 
 ## Skills
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
