@@ -11,8 +11,7 @@ Hello, I am <b>Moataz AbdAlmageed</b> a Full stack Web Developer with +7 years o
 
 ### Frontend
 <code> <img title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
-<code> <img title="CSS" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> </code>
-
+<code> <img title="CSS" height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" /> </code>
 <code> <img title="sass" height="50" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" /> </code>
 <code> <img title="bootstrap" height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" /> </code>
 <code> <img title="javascript" height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"/></code>
