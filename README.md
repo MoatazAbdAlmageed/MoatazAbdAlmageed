@@ -38,5 +38,3 @@ Hello, I am <b>Moataz AbdAlmageed</b> a Full stack Web Developer with +7 years o
 ### Desktop
 <code> <img title="electronjs" height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
 
-### Interesting stats
-![Moataz's stats](https://github-readme-stats.vercel.app/api?username=MoatazAbdAlmageed&show_icons=true)
