@@ -1,4 +1,5 @@
- As a Full Stack Web Developer, I am highly skilled and passionate about my work. I currently work for Wuilt and am eager to take on more challenging projects and expand my expertise in the field. My experience includes developing web applications using HTML5, CSS3, JavaScript, Node.js, React.js, PHP, Laravel, and WordPress. Additionally, I have experience with databases such as MySQL and MongoDB. With my knowledge and passion for web development, I look forward to taking on more work and increasing my skillset as a Web Developer.
+Back-End Web Developer specializing in PHP and Laravel. Experienced in building scalable and secure web applications, designing RESTful APIs, and optimizing database performance with MySQL and MongoDB. Proficient in integrating third-party services, implementing authentication systems, and enhancing application security. Familiar with front-end technologies such as HTML, CSS, JavaScript, React, and Angular, allowing seamless collaboration with front-end teams. Additionally, knowledgeable in DevOps practices, including server management, CI/CD pipelines, and Docker.
+
 
 
 
