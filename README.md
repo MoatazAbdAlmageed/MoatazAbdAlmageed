@@ -1,7 +1,4 @@
-Back-End Web Developer specializing in PHP and Laravel. Experienced in building scalable and secure web applications, designing RESTful APIs, and optimizing database performance with MySQL and MongoDB. Proficient in integrating third-party services, implementing authentication systems, and enhancing application security. Familiar with front-end technologies such as HTML, CSS, JavaScript, React, and Angular, allowing seamless collaboration with front-end teams. Additionally, knowledgeable in DevOps practices, including server management, CI/CD pipelines, and Docker.
-
-
-
+Back-End Web Developer specializing in PHP and Laravel, with experience building scalable, secure applications and designing RESTful APIs. Skilled in MySQL, MongoDB, and third-party integrations. Proficient in authentication, security, and familiar with HTML, CSS, JavaScript, React, and Angular for effective front-end collaboration. Also familiar with basic DevOps practices such as Docker, server setup, and CI/CD pipelines.
 
 
 ## Skills
